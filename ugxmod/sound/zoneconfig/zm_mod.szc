@@ -1,0 +1,23 @@
+{
+ "Name" : "zm_mod",
+ "GameMode" : "zm",
+ "IsCommon" : false,
+ "Parent" : "",
+ "Overlay" : "",
+ "IsStandalone" : true,
+ "IsProduction" : true,
+ "IsShipped" : true,
+ "DontDeploy" : false,
+ "NoStreamBank" : false,
+ "MapFile" : "",
+ "Standalone" : true,
+ "Builds" : [ "T7" ],
+ "Sources" : [
+ {
+ "Type" : "ALIAS",
+ "Name" : "ugxmbo3",
+ "Filename" : "ugxmbo3.csv",
+ "Specs" : [ ] 
+},
+]
+}

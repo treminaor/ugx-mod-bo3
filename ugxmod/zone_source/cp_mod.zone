@@ -1,0 +1,4 @@
+>mode,cp
+>type,common
+
+#include "cp_mod.class"

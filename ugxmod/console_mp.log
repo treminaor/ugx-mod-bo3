@@ -1,0 +1,458 @@
+[  17894][         ]  Build 0
+logfile opened on Fri Nov 18 12:08:17 2016
+
+[  17894][       DB]  Error: Could not find material "specialty_instakill_zombies".
+[  17894][       DB]  Error: Could not find material "specialty_doublepoints_zombies".
+[  17894][       DB]  Error: Could not find material "specialty_doublepoints_zombies_blue".
+[  17894][       DB]  Error: Could not find material "specialty_firesale_zombies".
+[  17894][       DB]  Error: Could not find material "zom_icon_bonfire".
+[  17894][       DB]  Error: Could not find material "t7_hud_zm_powerup_deathmachine".
+[  17894][       DB]  Error: Could not find material "specialty_zomblood_zombies".
+[  17929][       DB]  Error: Could not find rawfile "gamedata/ddldata/common/official_customgames.ddldata_1".
+[  17930][       DB]  Error: Could not find rawfile "gamedata/ddldata/common/official_customgames.ddldata_2".
+[  18053][         ]  execing gamedata/configs/common/buttons/default.cfg from fastfile
+[  18053][         ]  execing gamedata/configs/common/buttons/default.cfg from fastfile
+[  18053][         ]  execing gamedata/configs/common/thumbstick/default.cfg from fastfile
+[  18053][         ]  execing gamedata/configs/common/buttons/default.cfg from fastfile
+[  18053][         ]  execing gamedata/configs/common/buttons/default.cfg from fastfile
+[  18054][         ]  execing gamedata/configs/common/thumbstick/default.cfg from fastfile
+[  18108][         ]  Starting up server with abort_on_error TRUE
+[  18108][         ]  Starting up server with developer TRUE
+[  18362][       DB]  Unloading assets from fastfile 'core_specialists' and creating default assets stubs
+[  18566][       DB]  Unloading assets from fastfile 'en_core_specialists' and creating default assets stubs
+[  18566][         ]  Removed xpak file: core_specialists
+[  18733][       DB]  Unloaded fastfile 'core_specialists'
+[  18741][       DB]  Unloaded fastfile 'en_core_specialists'
+[  18743][       DB]  FastFileLoad: Setting en_zm_zod_patch to XZONE_LOADING.
+[  18750][       DB]  Loading fastfile 'en_zm_zod_patch'
+[  18772][         ]  xpak is empty: E:\Steam\SteamApps\common\Call of Duty Black Ops III/zone/zm_zod_patch.xpak
+[  18772][         ]  Added XPaks for en_zm_zod_patch, 19ms
+[  18809][    SOUND]  SOUND Adding Bank zm_zod_patch.en 1118 normal
+[  18823][       DB]  Loading sounds for 'en_zm_zod_patch'
+[  18823][    SOUND]  SOUND load state for zm_zod_patch.en changed from 0 to 1
+[  18851][    SOUND]  SOUND entry alloc E:\Steam\SteamApps\common\Call of Duty Black Ops III/zone/snd/en/zm_zod_patch.en.sabs 46
+[  18851][    SOUND]  SOUND load state for zm_zod_patch.en changed from 1 to 2
+[  18854][    SOUND]  SOUND load state for zm_zod_patch.en changed from 2 to 3
+[  18884][    SOUND]  SOUND load state for zm_zod_patch.en changed from 3 to 4
+[  18927][    SOUND]  SOUND load state for zm_zod_patch.en changed from 4 to 5
+[  18927][    SOUND]  SOUND load state for zm_zod_patch.en changed from 5 to 6
+[  18943][    SOUND]  SOUND load state for zm_zod_patch.en changed from 6 to 7
+[  18959][       DB]  Loaded sounds for 'en_zm_zod_patch' 136ms
+[  18959][       DB]  FastFileLoad: Setting en_zm_zod_patch to XZONE_LOADED in 216ms.
+[  18983][       DB]  FastFileLoad: Setting zm_zod_patch to XZONE_LOADING.
+[  18990][       DB]  Loading fastfile 'zm_zod_patch'
+[  18999][       DB]  Redundant techset asset 'mc/lit_plus#e6142445' found in zone 'core_common' while loading zone 'zm_zod_patch'
+[  18999][       DB]  Redundant image asset '$occlusion_black' found in zone 'core_common' while loading zone 'zm_zod_patch'
+[  18999][       DB]  Redundant image asset '$normal' found in zone 'core_pre_gfx' while loading zone 'zm_zod_patch'
+[  18999][       DB]  Redundant image asset '$black_color' found in zone 'zm_mod' while loading zone 'zm_zod_patch'
+[  18999][       DB]  Redundant material asset 'mc/collision' found in zone 'core_common' while loading zone 'zm_zod_patch'
+[  18999][       DB]  Redundant xmodelmesh asset 'collision_128x128x128950385cc' found in zone 'core_common' while loading zone 'zm_zod_patch'
+[  18999][       DB]  Redundant xmodelmesh asset 'collision_256x256x256774d7abd' found in zone 'core_common' while loading zone 'zm_zod_patch'
+[  18999][       DB]  Redundant xmodelmesh asset 'collision_32x32x128c9ce8a59' found in zone 'core_common' while loading zone 'zm_zod_patch'
+[  18999][       DB]  Redundant xmodelmesh asset 'collision_32x32x32833872f8' found in zone 'core_common' while loading zone 'zm_zod_patch'
+[  18999][       DB]  Redundant xmodelmesh asset 'collision_512x512x512ca5e9bf1' found in zone 'core_common' while loading zone 'zm_zod_patch'
+[  18999][       DB]  Redundant xmodelmesh asset 'collision_64x64x12860ce8cce' found in zone 'core_common' while loading zone 'zm_zod_patch'
+[  18999][       DB]  Redundant xmodelmesh asset 'collision_64x64x2567846b7a1' found in zone 'core_common' while loading zone 'zm_zod_patch'
+[  18999][       DB]  Redundant xmodelmesh asset 'collision_64x64x64e9e2e69e' found in zone 'core_common' while loading zone 'zm_zod_patch'
+[  18999][       DB]  Redundant xmodelmesh asset 'collision_cylinder_32x128cf249abf' found in zone 'core_common' while loading zone 'zm_zod_patch'
+[  18999][       DB]  Redundant xmodelmesh asset 'collision_cylinder_32x256b46c95d7' found in zone 'core_common' while loading zone 'zm_zod_patch'
+[  18999][       DB]  Redundant xmodelmesh asset 'collision_ramp_128x241f9d7433' found in zone 'core_common' while loading zone 'zm_zod_patch'
+[  18999][       DB]  Redundant xmodelmesh asset 'collision_ramp_256x24a7125d58' found in zone 'core_common' while loading zone 'zm_zod_patch'
+[  18999][       DB]  Redundant xmodelmesh asset 'collision_ramp_64x249505e05b' found in zone 'core_common' while loading zone 'zm_zod_patch'
+[  19000][       DB]  Redundant xmodelmesh asset 'collision_sphere_325f577493' found in zone 'core_common' while loading zone 'zm_zod_patch'
+[  19000][       DB]  Redundant xmodelmesh asset 'collision_sphere_64c92601a7' found in zone 'core_common' while loading zone 'zm_zod_patch'
+[  19000][       DB]  Redundant xmodelmesh asset 'collision_wall_128x128x10acca4a3a' found in zone 'core_common' while loading zone 'zm_zod_patch'
+[  19000][       DB]  Redundant xmodelmesh asset 'collision_wall_256x256x10efac283f' found in zone 'core_common' while loading zone 'zm_zod_patch'
+[  19000][       DB]  Redundant xmodelmesh asset 'collision_wall_32x32x10598087e1' found in zone 'core_common' while loading zone 'zm_zod_patch'
+[  19000][       DB]  Redundant xmodelmesh asset 'collision_wall_512x512x105e17820d' found in zone 'core_common' while loading zone 'zm_zod_patch'
+[  19000][       DB]  Redundant xmodelmesh asset 'collision_wall_64x64x10c1fddf96' found in zone 'core_common' while loading zone 'zm_zod_patch'
+[  19000][       DB]  Redundant xmodelmesh asset 'collision_wedge_32x12869ef1eed' found in zone 'core_common' while loading zone 'zm_zod_patch'
+[  19000][       DB]  Redundant xmodelmesh asset 'collision_wedge_32x256147b7f7f' found in zone 'core_common' while loading zone 'zm_zod_patch'
+[  19000][       DB]  Redundant techset asset 'mc/lit_alphatest#e6142445' found in zone 'core_pre_gfx' while loading zone 'zm_zod_patch'
+[  19000][       DB]  Redundant image asset '$white_reveal' found in zone 'zm_mod' while loading zone 'zm_zod_patch'
+[  19003][         ]  Added XPaks for zm_zod_patch, 0ms
+[  19011][    SOUND]  SOUND Adding Bank zm_zod_patch.all 1119 normal
+[  19069][       DB]  Loading sounds for 'zm_zod_patch'
+[  19069][    SOUND]  SOUND load state for zm_zod_patch.all changed from 0 to 1
+[  19089][    SOUND]  SOUND load state for zm_zod_patch.all changed from 1 to 2
+[  19099][    SOUND]  SOUND load state for zm_zod_patch.all changed from 2 to 3
+[  19121][    SOUND]  SOUND load state for zm_zod_patch.all changed from 3 to 4
+[  19134][    SOUND]  SOUND load state for zm_zod_patch.all changed from 4 to 5
+[  19155][    SOUND]  SOUND load state for zm_zod_patch.all changed from 5 to 6
+[  19164][    SOUND]  SOUND load state for zm_zod_patch.all changed from 6 to 7
+[  19194][       DB]  Loaded sounds for 'zm_zod_patch' 125ms
+[  19194][       DB]  FastFileLoad: Setting zm_zod_patch to XZONE_LOADED in 211ms.
+[  19215][       DB]  FastFileLoad: Setting en_zm_zod to XZONE_LOADING.
+[  19237][       DB]  Loading fastfile 'en_zm_zod'
+[  19248][       DB]  Redundant image asset 'i_c_gen_reveal_1k_sq_r' found in zone 'core_common' while loading zone 'en_zm_zod'
+[  19250][       DB]  Redundant techset asset 'mc/glass#e6142445' found in zone 'core_common' while loading zone 'en_zm_zod'
+[  19255][    SOUND]  SOUND Adding Bank zm_zod.en 1018 patch
+[  19267][         ]  xpak is empty: E:\Steam\SteamApps\common\Call of Duty Black Ops III/zone/en_zm_zod.xpak
+[  19276][         ]  xpak is empty: E:\Steam\SteamApps\common\Call of Duty Black Ops III/zone/zm_zod.xpak
+[  19279][         ]  xpak is empty: E:\Steam\SteamApps\common\Call of Duty Black Ops III/zone/en_zm_zod_d.xpak
+[  19302][         ]  xpak is empty: E:\Steam\SteamApps\common\Call of Duty Black Ops III/zone/zm_zod_d.xpak
+[  19302][         ]  Added XPaks for en_zm_zod, 48ms
+[  19360][       DB]  Loading sounds for 'en_zm_zod'
+[  19360][    SOUND]  SOUND load state for zm_zod.en patch changed from 0 to 1
+[  19376][    SOUND]  SOUND load state for zm_zod.en patch changed from 1 to 2
+[  19390][    SOUND]  SOUND load state for zm_zod.en patch changed from 2 to 3
+[  19408][    SOUND]  SOUND load state for zm_zod.en patch changed from 3 to 4
+[  19420][    SOUND]  SOUND load state for zm_zod.en patch changed from 4 to 5
+[  19440][    SOUND]  SOUND load state for zm_zod.en patch changed from 5 to 6
+[  19452][    SOUND]  SOUND load state for zm_zod.en patch changed from 6 to 7
+[  19472][    SOUND]  SOUND load state for zm_zod.en changed from 0 to 1
+[  19482][    SOUND]  SOUND load state for zm_zod.en changed from 1 to 2
+[  19505][    SOUND]  SOUND load state for zm_zod.en changed from 2 to 3
+[  19514][    SOUND]  SOUND load state for zm_zod.en changed from 3 to 4
+[  19537][    SOUND]  SOUND load state for zm_zod.en changed from 4 to 5
+[  19544][    SOUND]  SOUND load state for zm_zod.en changed from 5 to 6
+[  19569][    SOUND]  SOUND load state for zm_zod.en changed from 6 to 7
+[  19574][       DB]  Loaded sounds for 'en_zm_zod' 214ms
+[  19574][       DB]  FastFileLoad: Setting en_zm_zod to XZONE_LOADED in 359ms.
+[  19574][       DB]  FastFileLoad: Setting zm_zod to XZONE_LOADING.
+[  19630][       DB]  Loading fastfile 'zm_zod'
+[  20509][    SOUND]  SOUND Adding Bank zm_zod.all 1019 patch
+[  20517][       DB]  Redundant image asset 'metal_gold_g' found in zone 'zm_mod' while loading zone 'zm_zod'
+[  20517][       DB]  Redundant material asset 'mc/mtl_x2icon_gold' found in zone 'zm_mod' while loading zone 'zm_zod'
+[  20567][       DB]  Redundant image asset 'i_c_zom_zod_keeper_bare_black_chain_tassles_n' found in zone 'en_zm_zod' while loading zone 'zm_zod'
+[  20567][       DB]  Redundant image asset 'i_c_zom_zod_keeper_bare_black_chain_tassles_c' found in zone 'en_zm_zod' while loading zone 'zm_zod'
+[  21619][       DB]  Redundant image asset 'i_c_gen_gib_blood_splatters_g' found in zone 'en_core_common' while loading zone 'zm_zod'
+[  21619][       DB]  Redundant image asset 'i_c_gen_gib_blood_splatters_c' found in zone 'en_core_common' while loading zone 'zm_zod'
+[  21619][       DB]  Redundant material asset 'mc/mtl_c_gen_gib_blood_splatters' found in zone 'en_core_common' while loading zone 'zm_zod'
+[  21692][       DB]  Redundant image asset 'i_c_zom_zod_zombie_fem_body_3_n' found in zone 'en_zm_zod' while loading zone 'zm_zod'
+[  21692][       DB]  Redundant image asset 'i_c_zom_zod_zombie_fem_body_3_g' found in zone 'en_zm_zod' while loading zone 'zm_zod'
+[  21692][       DB]  Redundant image asset 'i_c_zom_zod_zombie_fem_body_3_c' found in zone 'en_zm_zod' while loading zone 'zm_zod'
+[  21692][       DB]  Redundant material asset 'mc/mtl_c_zom_zod_zombie_fem_body_3' found in zone 'en_zm_zod' while loading zone 'zm_zod'
+[  24180][       DB]  Waited 5329 msec for asset 'maps/zm/zm_zod.d3dbsp' of type 'col_map'.
+[  24195][         ]  ------- Game Initialization -------
+[  24195][         ]  gamename: Call of Duty®
+[  24195][         ]  gamedate: Oct 12 2016
+[  24222][         ]  Added XPaks for zm_zod, 0ms
+[  24315][       DB]  Loading sounds for 'zm_zod'
+[  24315][    SOUND]  SOUND load state for zm_zod.all patch changed from 0 to 1
+[  24335][    SOUND]  SOUND load state for zm_zod.all patch changed from 1 to 2
+[  24345][    SOUND]  SOUND load state for zm_zod.all patch changed from 2 to 3
+[  24367][    SOUND]  SOUND load state for zm_zod.all patch changed from 3 to 4
+[  24375][    SOUND]  SOUND load state for zm_zod.all patch changed from 4 to 5
+[  24399][    SOUND]  SOUND load state for zm_zod.all patch changed from 5 to 6
+[  24405][    SOUND]  SOUND load state for zm_zod.all patch changed from 6 to 7
+[  24431][    SOUND]  SOUND load state for zm_zod.all changed from 0 to 1
+[  24435][    SOUND]  SOUND load state for zm_zod.all changed from 1 to 2
+[  24463][    SOUND]  SOUND load state for zm_zod.all changed from 2 to 3
+[  24495][    SOUND]  SOUND entry alloc E:\Steam\SteamApps\common\Call of Duty Black Ops III/zone/snd/all/zm_zod.all.sabl 996
+[  24495][    SOUND]  SOUND load state for zm_zod.all changed from 3 to 4
+[  24495][    SOUND]  SOUND load state for zm_zod.all changed from 4 to 5
+[  24530][    SOUND]  SOUND loaded alloc E:\Steam\SteamApps\common\Call of Duty Black Ops III/zone/snd/all/zm_zod.all.sabl 0000000CFCA99D00 0000000CFCAA3000
+[  24530][    SOUND]  SOUND load state for zm_zod.all changed from 5 to 6
+[  26581][    SOUND]  SOUND load state for zm_zod.all changed from 6 to 7
+[  26611][       DB]  Loaded sounds for 'zm_zod' 2296ms
+[  26611][       DB]  FastFileLoad: Setting zm_zod to XZONE_LOADED in 7037ms.
+[  26614][       DB]  Redundant techset asset 'mc/lit_plus#e6142445' found in zone 'core_common' while loading zone 'zm_zod_patch'
+[  26614][       DB]  Redundant image asset '$occlusion_black' found in zone 'core_common' while loading zone 'zm_zod_patch'
+[  26614][       DB]  Redundant image asset '$normal' found in zone 'core_pre_gfx' while loading zone 'zm_zod_patch'
+[  26614][       DB]  Redundant material asset 'mc/collision' found in zone 'core_common' while loading zone 'zm_zod_patch'
+[  26614][       DB]  Redundant xmodelmesh asset 'collision_128x128x128950385cc' found in zone 'core_common' while loading zone 'zm_zod_patch'
+[  26614][       DB]  Redundant xmodelmesh asset 'collision_256x256x256774d7abd' found in zone 'core_common' while loading zone 'zm_zod_patch'
+[  26614][       DB]  Redundant xmodelmesh asset 'collision_32x32x128c9ce8a59' found in zone 'core_common' while loading zone 'zm_zod_patch'
+[  26614][       DB]  Redundant xmodelmesh asset 'collision_32x32x32833872f8' found in zone 'core_common' while loading zone 'zm_zod_patch'
+[  26614][       DB]  Redundant xmodelmesh asset 'collision_512x512x512ca5e9bf1' found in zone 'core_common' while loading zone 'zm_zod_patch'
+[  26614][       DB]  Redundant xmodelmesh asset 'collision_64x64x12860ce8cce' found in zone 'core_common' while loading zone 'zm_zod_patch'
+[  26614][       DB]  Redundant xmodelmesh asset 'collision_64x64x2567846b7a1' found in zone 'core_common' while loading zone 'zm_zod_patch'
+[  26614][       DB]  Redundant xmodelmesh asset 'collision_64x64x64e9e2e69e' found in zone 'core_common' while loading zone 'zm_zod_patch'
+[  26614][       DB]  Redundant xmodelmesh asset 'collision_cylinder_32x128cf249abf' found in zone 'core_common' while loading zone 'zm_zod_patch'
+[  26614][       DB]  Redundant xmodelmesh asset 'collision_cylinder_32x256b46c95d7' found in zone 'core_common' while loading zone 'zm_zod_patch'
+[  26614][       DB]  Redundant xmodelmesh asset 'collision_ramp_128x241f9d7433' found in zone 'core_common' while loading zone 'zm_zod_patch'
+[  26614][       DB]  Redundant xmodelmesh asset 'collision_ramp_256x24a7125d58' found in zone 'core_common' while loading zone 'zm_zod_patch'
+[  26614][       DB]  Redundant xmodelmesh asset 'collision_ramp_64x249505e05b' found in zone 'core_common' while loading zone 'zm_zod_patch'
+[  26614][       DB]  Redundant xmodelmesh asset 'collision_sphere_325f577493' found in zone 'core_common' while loading zone 'zm_zod_patch'
+[  26614][       DB]  Redundant xmodelmesh asset 'collision_sphere_64c92601a7' found in zone 'core_common' while loading zone 'zm_zod_patch'
+[  26614][       DB]  Redundant xmodelmesh asset 'collision_wall_128x128x10acca4a3a' found in zone 'core_common' while loading zone 'zm_zod_patch'
+[  26614][       DB]  Redundant xmodelmesh asset 'collision_wall_256x256x10efac283f' found in zone 'core_common' while loading zone 'zm_zod_patch'
+[  26614][       DB]  Redundant xmodelmesh asset 'collision_wall_32x32x10598087e1' found in zone 'core_common' while loading zone 'zm_zod_patch'
+[  26614][       DB]  Redundant xmodelmesh asset 'collision_wall_512x512x105e17820d' found in zone 'core_common' while loading zone 'zm_zod_patch'
+[  26614][       DB]  Redundant xmodelmesh asset 'collision_wall_64x64x10c1fddf96' found in zone 'core_common' while loading zone 'zm_zod_patch'
+[  26614][       DB]  Redundant xmodelmesh asset 'collision_wedge_32x12869ef1eed' found in zone 'core_common' while loading zone 'zm_zod_patch'
+[  26614][       DB]  Redundant xmodelmesh asset 'collision_wedge_32x256147b7f7f' found in zone 'core_common' while loading zone 'zm_zod_patch'
+[  26614][       DB]  Redundant techset asset 'mc/lit_alphatest#e6142445' found in zone 'core_pre_gfx' while loading zone 'zm_zod_patch'
+[  26614][       DB]  Redundant image asset 'i_c_gen_reveal_1k_sq_r' found in zone 'core_common' while loading zone 'en_zm_zod'
+[  26614][       DB]  Redundant techset asset 'mc/glass#e6142445' found in zone 'core_common' while loading zone 'en_zm_zod'
+[  26614][       DB]  Redundant image asset 'i_c_zom_zod_keeper_bare_black_chain_tassles_n' found in zone 'en_zm_zod' while loading zone 'zm_zod'
+[  26614][       DB]  Redundant image asset 'i_c_zom_zod_keeper_bare_black_chain_tassles_c' found in zone 'en_zm_zod' while loading zone 'zm_zod'
+[  26614][       DB]  Redundant image asset 'i_c_gen_gib_blood_splatters_g' found in zone 'en_core_common' while loading zone 'zm_zod'
+[  26614][       DB]  Redundant image asset 'i_c_gen_gib_blood_splatters_c' found in zone 'en_core_common' while loading zone 'zm_zod'
+[  26614][       DB]  Redundant material asset 'mc/mtl_c_gen_gib_blood_splatters' found in zone 'en_core_common' while loading zone 'zm_zod'
+[  26614][       DB]  Redundant image asset 'i_c_zom_zod_zombie_fem_body_3_n' found in zone 'en_zm_zod' while loading zone 'zm_zod'
+[  26614][       DB]  Redundant image asset 'i_c_zom_zod_zombie_fem_body_3_g' found in zone 'en_zm_zod' while loading zone 'zm_zod'
+[  26614][       DB]  Redundant image asset 'i_c_zom_zod_zombie_fem_body_3_c' found in zone 'en_zm_zod' while loading zone 'zm_zod'
+[  26614][       DB]  Redundant material asset 'mc/mtl_c_zom_zod_zombie_fem_body_3' found in zone 'en_zm_zod' while loading zone 'zm_zod'
+[  26617][       DB]  Error: Could not find weapon "smg_ppsh_zm".
+[  26617][       DB]  Error: Could not find weapon "sten_zm".
+[  26617][       DB]  Error: Could not find weapon "smg_mp40_zm".
+[  26617][       DB]  Error: Could not find weapon "smg_mp40_upgraded_zm".
+[  26617][       DB]  Error: Could not find weapon "smg_ppsh_upgraded_zm".
+[  26617][       DB]  Error: Could not find weapon "ar_fastburst_zm".
+[  26617][       DB]  Error: Could not find weapon "ar_garand_zm".
+[  26617][       DB]  Error: Could not find weapon "ar_fastburst_upgraded_zm".
+[  26617][       DB]  Error: Could not find weapon "ar_garand_upgraded_zm".
+[  26617][       DB]  Error: Could not find weapon "sniper_chargeshot_zm".
+[  26618][       DB]  Error: Could not find weapon "sniper_chargeshot_upgraded_zm".
+[  26618][       DB]  Error: Could not find weapon "pistol_standard_dw_zm".
+[  26618][       DB]  Error: Could not find weapon "pistol_burst_dw_zm".
+[  26618][       DB]  Error: Could not find weapon "pistol_fullauto_dw_zm".
+[  26618][       DB]  Error: Could not find weapon "pistol_shotgun_zm".
+[  26618][       DB]  Error: Could not find weapon "pistol_shotgun_dw_zm".
+[  26618][       DB]  Error: Could not find weapon "pistol_shotgun_upgraded_zm".
+[  26618][       DB]  Error: Could not find weapon "pistol_shotgun_dw_upgraded_zm".
+[  26618][       DB]  Error: Could not find weapon "launcher_lockonly_zm".
+[  26618][       DB]  Error: Could not find weapon "launcher_lockonly_upgraded_zm".
+[  26618][       DB]  Error: Could not find weapon "knife_loadout_zm".
+[  26618][       DB]  Error: Could not find weapon "skull_gun_zm".
+[  26618][       DB]  Error: Could not find weapon "skull_gun_upgraded_zm".
+[  26631][       DB]  Error: Could not find material "minimap_icon_mystery_box".
+[  26631][       DB]  Error: Could not find material "zom_icon_community_pot".
+[  26631][       DB]  Error: Could not find material "zom_icon_community_pot_strip".
+[  26631][       DB]  Error: Could not find material "zom_icon_player_life".
+[  26631][       DB]  Error: Could not find fx "_t6/maps/zombie/fx_zmb_tanzit_upgrade".
+[  26631][       DB]  Error: Could not find fx "_t6/maps/zombie/fx_zmb_tranzit_electrap_explo".
+[  26631][       DB]  Error: Could not find fx "_t6/maps/zombie/fx_zombie_bar_break".
+[  26631][       DB]  Error: Could not find fx "_t6/maps/zombie/fx_zombie_bar_break_lite".
+[  26631][       DB]  Error: Could not find fx "_t6/maps/zombie/fx_zombie_tesla_neck_spurt".
+[  26631][       DB]  Error: Could not find fx "_t6/misc/fx_zombie_cola_dtap_on".
+[  26631][       DB]  Error: Could not find fx "_t6/misc/fx_zombie_cola_jugg_on".
+[  26631][       DB]  Error: Could not find fx "_t6/misc/fx_zombie_cola_on".
+[  26631][       DB]  Error: Could not find fx "zombie/fx_dog_eyes_zmb".
+[  26631][       DB]  Error: Could not find fx "zombie/fx_dog_fire_trail_zmb".
+[  26631][       DB]  Error: Could not find fx "_t6/maps/zombie/fx_mp_zombie_body_snow_falling".
+[  26631][       DB]  Error: Could not find fx "_t6/maps/zombie/fx_mp_zombie_body_water_billowing".
+[  26631][       DB]  Error: Could not find fx "_t6/maps/zombie/fx_mp_zombie_hand_snow_burst".
+[  26631][       DB]  Error: Could not find fx "_t6/maps/zombie/fx_mp_zombie_hand_water_burst".
+[  26631][       DB]  Error: Could not find fx "_t6/maps/zombie/fx_zombie_body_wtr_falling".
+[  26635][       DB]  Error: Could not find weapon "special_crossbow_zm".
+[  26635][       DB]  Error: Could not find fx "_t6/misc/fx_ui_flagbase_pmc".
+[  26635][       DB]  Error: Could not find fx "_t6/weapon/riotshield/fx_riotshield_depoly_dust".
+[  26635][       DB]  Error: Could not find fx "_t6/weapon/riotshield/fx_riotshield_depoly_lights".
+[  26635][       DB]  Error: Could not find fx "killstreaks/fx_heli_chaff".
+[  26635][       DB]  Error: Could not find fx "lensflares/fx_lensflare_sniper_glint".
+[  26635][       DB]  Error: Could not find fx "player/fx_plyr_clone_reaper_appear".
+[  26635][       DB]  Error: Could not find fx "player/fx_plyr_clone_reaper_orb".
+[  26635][       DB]  Error: Could not find fx "player/fx_plyr_clone_vanish".
+[  26635][       DB]  Error: Could not find fx "player/fx_plyr_flashback_trail_impact".
+[  26635][       DB]  Error: Could not find fx "player/fx_plyr_rejack_light".
+[  26635][       DB]  Error: Could not find fx "player/fx_plyr_revive".
+[  26635][       DB]  Error: Could not find fx "player/fx_plyr_revive_demat".
+[  26635][       DB]  Error: Could not find fx "vehicle/fx_quadtank_airburst".
+[  26635][       DB]  Error: Could not find fx "vehicle/fx_quadtank_airburst_ground".
+[  26635][       DB]  Error: Could not find fx "weapon/fx_betty_light_blue".
+[  26635][       DB]  Error: Could not find fx "weapon/fx_betty_light_orng".
+[  26635][       DB]  Error: Could not find fx "weapon/fx_hero_pineapple_trail_blue".
+[  26635][       DB]  Error: Could not find fx "weapon/fx_hero_pineapple_trail_orng".
+[  26635][       DB]  Error: Could not find fx "animals/fx_bio_direwolf_eyes".
+[  26635][       DB]  Error: Could not find fx "dlc1/castle/fx_mech_dmg_armor".
+[  26635][       DB]  Error: Could not find fx "dlc1/castle/fx_mech_dmg_armor_face".
+[  26635][       DB]  Error: Could not find fx "dlc1/castle/fx_mech_dmg_body_light".
+[  26635][       DB]  Error: Could not find fx "dlc1/castle/fx_mech_dmg_knee_sparks".
+[  26635][       DB]  Error: Could not find fx "dlc1/castle/fx_mech_dmg_sparks".
+[  26635][       DB]  Error: Could not find fx "dlc1/castle/fx_mech_foot_step".
+[  26635][       DB]  Error: Could not find fx "dlc1/castle/fx_mech_foot_step_steam".
+[  26635][       DB]  Error: Could not find fx "dlc1/castle/fx_mech_head_light".
+[  26635][       DB]  Error: Could not find fx "dlc1/castle/fx_mech_light_dmg".
+[  26635][       DB]  Error: Could not find fx "dlc1/castle/fx_mech_wpn_flamethrower".
+[  26635][       DB]  Error: Could not find fx "dlc1/castle/fx_wpn_115_muz".
+[  26635][       DB]  Error: Could not find fx "dlc2/island/fx_spores_cloud_ambient_lrg".
+[  26635][       DB]  Error: Could not find fx "dlc2/island/fx_spores_cloud_ambient_md".
+[  26635][       DB]  Error: Could not find fx "dlc2/island/fx_spores_cloud_ambient_sm".
+[  26635][       DB]  Error: Could not find fx "dlc2/island/fx_thrash_chest_mouth_drool_1p".
+[  26635][       DB]  Error: Could not find fx "dlc2/island/fx_thrash_eye_glow".
+[  26635][       DB]  Error: Could not find fx "dlc2/island/fx_thrash_eye_glow_rage".
+[  26635][       DB]  Error: Could not find fx "dlc2/island/fx_thrash_pustule_burst".
+[  26635][       DB]  Error: Could not find fx "dlc2/island/fx_thrash_pustule_impact".
+[  26635][       DB]  Error: Could not find fx "dlc2/island/fx_thrash_pustule_reinflate".
+[  26635][       DB]  Error: Could not find fx "dlc2/island/fx_thrash_pustule_spore_exp".
+[  26635][       DB]  Error: Could not find fx "dlc2/island/fx_thrash_rage_gas_leg_lft".
+[  26635][       DB]  Error: Could not find fx "dlc2/island/fx_thrash_rage_gas_leg_rgt".
+[  26635][       DB]  Error: Could not find fx "dlc2/island/fx_thrash_rage_gas_torso".
+[  26635][       DB]  Error: Could not find fx "electric/fx_ability_elec_surge_short_robot".
+[  26635][       DB]  Error: Could not find fx "electric/fx_elec_warlord_damage_1".
+[  26635][       DB]  Error: Could not find fx "electric/fx_elec_warlord_damage_2".
+[  26635][       DB]  Error: Could not find fx "electric/fx_elec_warlord_lower_damage_1".
+[  26635][       DB]  Error: Could not find fx "electric/fx_elec_warlord_lower_damage_2".
+[  26635][       DB]  Error: Could not find fx "explosions/fx_exp_robot_stage3_evb".
+[  26635][       DB]  Error: Could not find fx "explosions/fx_exp_warlord_death".
+[  26635][       DB]  Error: Could not find fx "light/fx_light_body_glow_warlord".
+[  26635][       DB]  Error: Could not find fx "light/fx_light_eye_glow_warlord".
+[  26635][       DB]  Error: Could not find fx "player/fx_loot_taunt_e_reaper_main_03".
+[  26635][       DB]  Error: Could not find fx "player/fx_loot_taunt_outrider_talon_lights".
+[  26635][       DB]  Error: Could not find fx "player/fx_plyr_ability_screen_blur_overdrive".
+[  26635][       DB]  Error: Could not find fx "player/fx_plyr_flashback_trail".
+[  26635][       DB]  Error: Could not find fx "player/fx_plyr_heat_wave_distortion_volume".
+[  26635][       DB]  Error: Could not find fx "player/fx_plyr_heat_wave_distortion_volume_air".
+[  26635][       DB]  Error: Could not find fx "player/fx_plyr_shock_field".
+[  26635][       DB]  Error: Could not find fx "player/fx_plyr_shock_field_1p".
+[  26635][       DB]  Error: Could not find fx "vehicle/fx_exhaust_jetpack_warlord_juke".
+[  26635][       DB]  Error: Could not find fx "weapon/fx_hero_blackjack_beam_source".
+[  26635][       DB]  Error: Could not find fx "weapon/fx_hero_blackjack_beam_target".
+[  26635][       DB]  Error: Could not find fx "zombie/fx_val_chest_burst".
+[  26635][       DB]  Error: Could not find tagfx "ability_hero_heat_wave_player_impact".
+[  26635][       DB]  Error: Could not find tagfx "gadget_flashback_3p_off".
+[  26636][       DB]  Error: Could not find fx "_t6/misc/fx_zombie_cola_revive_on".
+[  26636][       DB]  Error: Could not find fx "dlc0/factory/fx_snow_player_os_factory".
+[  26636][       DB]  Error: Could not find fx "dlc1/castle/fx_castle_electric_cherry_down".
+[  26636][       DB]  Error: Could not find fx "weather/fx_rain_system_drop_impact".
+[  26636][       DB]  Error: Could not find fx "dlc1/castle/fx_castle_electric_cherry_trail".
+[  26640][       DB]  Error: Could not find weapon "knife_held_zm".
+[  26640][       DB]  Error: Could not find weapon "zombie_weapon_octobomb_zm".
+[  26640][       DB]  Error: Could not find weapon "weapon_null_zm".
+[  26640][       DB]  Error: Could not find weapon "beast_zm".
+[  26641][       DB]  Error: Could not find material "specialty_doubletap_zombies".
+[  26641][       DB]  Error: Could not find material "specialty_extraprimaryweapon_zombies".
+[  26641][       DB]  Error: Could not find material "specialty_fastreload_zombies".
+[  26641][       DB]  Error: Could not find material "specialty_juggernaut_zombies".
+[  26641][       DB]  Error: Could not find material "specialty_marathon_zombies".
+[  26641][       DB]  Error: Could not find material "specialty_quickrevive_zombies".
+[  26641][       DB]  Error: Could not find material "specialty_widows_wine_zombies".
+[  26641][       DB]  Error: Could not find material "zom_icon_minigun".
+[  26641][       DB]  Error: Could not find fx "trail/fx_trail_blood_streak".
+[  26641][       DB]  Error: Could not find fx "fx_ee_apothigod_beam_impact_zod_zmb".
+[  26641][       DB]  Error: Could not find fx "fx_fungus_pod_ambient_lg_zod_zmb".
+[  26641][       DB]  Error: Could not find fx "portal_3p".
+[  26641][       DB]  Error: Could not find fx "portal_shortcut_closed".
+[  26641][       DB]  Error: Could not find fx "portal_shortcut_open".
+[  26641][       DB]  Error: Could not find fx "zombie/fx_idgun_cocoon_wrap_zod_zmb".
+[  26641][       DB]  Error: Could not find fx "zombie/fx_octobomb_scurry_trail_zod_zmb".
+[  26641][       DB]  Error: Could not find fx "zombie/fx_octobomb_splash_lg_zod_zmb".
+[  26641][       DB]  Error: Could not find fx "zombie/fx_octobomb_splash_sm_zod_zmb".
+[  27151][       DB]  Error: Could not find weapon "ball_zm".
+[  27151][       DB]  Error: Could not find weapon "ball".
+[  27154][       DB]  Error: Could not find weapon "gadget_resurrect_zm".
+[  27154][       DB]  Error: Could not find weapon "gadget_resurrect".
+[  27156][       DB]  Error: Could not find weapon "dragon_gauntlet_zm".
+[  27156][       DB]  Error: Could not find weapon "dragon_gauntlet".
+[  27160][       DB]  Error: Could not find weapon "proximity_grenade_zm".
+[  27160][       DB]  Error: Could not find weapon "proximity_grenade".
+[  27162][       DB]  Error: Could not find weapon "pistol_shotgun".
+[  27162][       DB]  Error: Could not find weapon "pistol_shotgun_upgraded".
+[  27162][       DB]  Error: Could not find weapon "ar_garand".
+[  27162][       DB]  Error: Could not find weapon "ar_garand_upgraded".
+[  27163][       DB]  Error: Could not find weapon "launcher_lockon_zm".
+[  27163][       DB]  Error: Could not find weapon "launcher_lockon".
+[  27163][       DB]  Error: Could not find weapon "launcher_lockonly".
+[  27344][         ]  -----------------------------------
+[  27524][       DB]  Error: Could not find structuredtable "gamedata/tables/common/mod_game_types.json".
+[  27524][         ]  ModLoad done: ugxmod
+[  30054][         ]  execing gamedata/gamesettings/zm/gamesettings_default.cfg from fastfile
+[  30054][         ]  execing gamedata/gamesettings/zm/gamesettings_zclassic.cfg from fastfile
+[  32662][         ]  execing gamedata/configs/zm/ragdoll.cfg from fastfile
+[  32663][  BGCACHE]  Client: Registering configstring index 3241 with data y©É¦¦
+[  32932][  BGCACHE]  Client: Registering configstring index 3241 with data y©É¦¦
+[  32932][       DB]  Error: Could not find material "t7_hud_minimap_enemy_hunter".
+[  32932][       DB]  Error: Could not find material "t7_hud_minimap_enemy_quad".
+[  33012][       DB]  Error: Could not find cgmediatable "cgmedia_zm_zod".
+[  33012][       DB]  Error: Could not find fx "weapon/fx_trail_rocket_multi_lob".
+[  33033][       DB]  Error: Could not find rawfile "vision/zm_zod.vision".
+[  43124][ SCRIPTER]  [msg]treminaor^7 Connected
+[  43143][       DB]  Error: Could not find material "t7_hud_cp_help_indicator".
+[  43143][       DB]  Error: Could not find material "t7_hud_cp_grenade_impact_a".
+[  43143][       DB]  Error: Could not find material "t7_hud_cp_grenade_impact_b".
+[  43143][       DB]  Error: Could not find material "t7_hud_cp_grenade_splash".
+[  43212][       DB]  Error: Could not find material "mc/ability_clone_enemy_damage".
+[  43212][       DB]  Error: Could not find material "mc/ability_clone_ally_damage".
+[  43212][       DB]  Error: Could not find material "mc/ability_clone_enemy".
+[  43212][       DB]  Error: Could not find material "mc/ability_clone_ally".
+[  56428][ SCRIPTER]  [msg]Opening Menu
+[  67037][         ]  ]/quit
+[  67037][         ]  quitting...
+[  67063][         ]  execing gamedata/configs/zm/ragdoll.cfg from fastfile
+[  67160][         ]  ==== ShutdownGame (1) ====
+[  67196][       DB]  Unloading assets from fastfile 'zm_zod' and deleting all assets
+[  67542][    SOUND]  SOUND Removing Bank 8 zm_zod.all patch
+[  67542][    SOUND]  SOUND Removing Bank 9 zm_zod.all 
+[  67708][       DB]  Unloading assets from fastfile 'en_zm_zod' and deleting all assets
+[  67710][    SOUND]  SOUND Removing Bank 10 zm_zod.en patch
+[  67710][    SOUND]  SOUND Removing Bank 11 zm_zod.en 
+[  67712][       DB]  Unloading assets from fastfile 'zm_zod_patch' and deleting all assets
+[  67714][    SOUND]  SOUND Removing Bank 2 zm_zod_patch.all 
+[  67717][       DB]  Unloading assets from fastfile 'en_zm_zod_patch' and deleting all assets
+[  67719][    SOUND]  SOUND Removing Bank 3 zm_zod_patch.en 
+[  67721][       DB]  Unloading assets from fastfile 'zm_mod' and deleting all assets
+[  67723][    SOUND]  SOUND Removing Bank 0 zm_mod.all 
+[  67727][       DB]  Unloading assets from fastfile 'en_zm_mod' and deleting all assets
+[  67727][         ]  Removed xpak file: zm_mod
+[  67731][    SOUND]  SOUND Removing Bank 1 zm_mod.en 
+[  67732][       DB]  Unloading assets from fastfile 'zm_common' and deleting all assets
+[  67741][    SOUND]  SOUND Removing Bank 12 zm_common.all patch
+[  67743][    SOUND]  SOUND Removing Bank 13 zm_common.all 
+[  67764][       DB]  Unloading assets from fastfile 'en_zm_common' and deleting all assets
+[  67766][    SOUND]  SOUND Removing Bank 14 zm_common.en patch
+[  67766][    SOUND]  SOUND Removing Bank 15 zm_common.en 
+[  67768][       DB]  Unloading assets from fastfile 'zm_patch' and deleting all assets
+[  67772][    SOUND]  SOUND Removing Bank 4 zm_patch.all 
+[  67774][       DB]  Unloading assets from fastfile 'en_zm_patch' and deleting all assets
+[  67774][         ]  Removed xpak file: zm_initial
+[  67779][    SOUND]  SOUND Removing Bank 5 zm_patch.en 
+[  67780][       DB]  Unloading assets from fastfile 'core_common' and deleting all assets
+[  67946][       DB]  Unloading assets from fastfile 'en_core_common' and deleting all assets
+[  67952][       DB]  Unloading assets from fastfile 'core_ui' and deleting all assets
+[  67961][    SOUND]  SOUND Removing Bank 16 core_ui.all patch
+[  67962][    SOUND]  SOUND Removing Bank 17 core_ui.all 
+[  67965][       DB]  Unloading assets from fastfile 'en_core_ui' and deleting all assets
+[  67969][    SOUND]  SOUND Removing Bank 18 core_ui.en patch
+[  67969][    SOUND]  SOUND Removing Bank 19 core_ui.en 
+[  67970][       DB]  Unloading assets from fastfile 'core_post_gfx' and deleting all assets
+[  67975][    SOUND]  SOUND Removing Bank 20 core_post_gfx.all patch
+[  67975][    SOUND]  SOUND Removing Bank 21 core_post_gfx.all 
+[  67977][       DB]  Unloading assets from fastfile 'en_core_post_gfx' and deleting all assets
+[  67981][    SOUND]  SOUND Removing Bank 22 core_post_gfx.en patch
+[  67981][    SOUND]  SOUND Removing Bank 23 core_post_gfx.en 
+[  67981][       DB]  Unloading assets from fastfile 'core_gfx' and deleting all assets
+[  67986][       DB]  Unloading assets from fastfile 'en_core_gfx' and deleting all assets
+[  67990][       DB]  Unloading assets from fastfile 'core_patch' and deleting all assets
+[  67995][    SOUND]  SOUND Removing Bank 6 core_patch.all 
+[  67997][       DB]  Unloading assets from fastfile 'en_core_patch' and deleting all assets
+[  67997][         ]  Removed xpak file: en_base_patch
+[  67997][         ]  Removed xpak file: base_patch
+[  67997][         ]  Removed xpak file: en_base_patch_tu3
+[  67997][         ]  Removed xpak file: base_patch_tu3
+[  67997][         ]  Removed xpak file: en_base_patch_tu4
+[  67997][         ]  Removed xpak file: base_patch_tu4
+[  67997][         ]  Removed xpak file: base_patch_tu5
+[  67997][         ]  Removed xpak file: base_patch_tu6
+[  67997][         ]  Removed xpak file: base_patch_tu7
+[  67997][         ]  Removed xpak file: base_patch_tu8
+[  67997][         ]  Removed xpak file: base_patch_tu9
+[  67997][         ]  Removed xpak file: en_base_patch_tu10
+[  67997][         ]  Removed xpak file: base_patch_tu10
+[  67998][         ]  Removed xpak file: base_patch_tu11
+[  67998][         ]  Removed xpak file: base_patch_tu12
+[  67998][         ]  Removed xpak file: base_patch_tu13
+[  67998][         ]  Removed xpak file: base_patch_tu14
+[  67998][         ]  Removed xpak file: base_patch_tu15
+[  67998][         ]  Removed xpak file: base_patch_tu17
+[  68023][    SOUND]  SOUND Removing Bank 7 core_patch.en 
+[  68023][       DB]  Unloading assets from fastfile 'core_pre_gfx' and deleting all assets
+[  68048][       DB]  Unloading assets from fastfile 'en_core_pre_gfx' and deleting all assets
+[  68048][         ]  Removed xpak file: en_initial
+[  68048][         ]  Removed xpak file: initial
+[  68048][         ]  Removed xpak file: en_base
+[  68048][         ]  Removed xpak file: base
+[  68081][       DB]  Unloaded fastfile 'zm_zod'
+[  68125][       DB]  Unloaded fastfile 'en_zm_zod'
+[  68126][       DB]  Unloaded fastfile 'zm_zod_patch'
+[  68126][       DB]  Unloaded fastfile 'en_zm_zod_patch'
+[  68126][       DB]  Unloaded fastfile 'zm_mod'
+[  68128][       DB]  Unloaded fastfile 'en_zm_mod'
+[  68128][       DB]  Unloaded fastfile 'zm_common'
+[  68134][       DB]  Unloaded fastfile 'en_zm_common'
+[  68134][       DB]  Unloaded fastfile 'zm_patch'
+[  68136][       DB]  Unloaded fastfile 'en_zm_patch'
+[  68136][       DB]  Unloaded fastfile 'core_common'
+[  68174][       DB]  Unloaded fastfile 'en_core_common'
+[  68174][       DB]  Unloaded fastfile 'core_ui'
+[  68180][       DB]  Unloaded fastfile 'en_core_ui'
+[  68180][       DB]  Unloaded fastfile 'core_post_gfx'
+[  68180][       DB]  Unloaded fastfile 'en_core_post_gfx'
+[  68180][       DB]  Unloaded fastfile 'core_gfx'
+[  68181][       DB]  Unloaded fastfile 'en_core_gfx'
+[  68181][       DB]  Unloaded fastfile 'core_patch'
+[  68194][       DB]  Unloaded fastfile 'en_core_patch'
+[  68194][       DB]  Unloaded fastfile 'core_pre_gfx'
+[  68198][       DB]  Unloaded fastfile 'en_core_pre_gfx'

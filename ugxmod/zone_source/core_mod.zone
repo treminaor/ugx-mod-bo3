@@ -1,0 +1,4 @@
+>mode,core
+>type,common
+
+#include "core_mod.class"

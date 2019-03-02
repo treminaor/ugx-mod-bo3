@@ -1,0 +1,8 @@
+name,refs,radius,onePixelDist,lodCount,verts0,tris0,verts1,tris1,verts2,tris2,verts3,tris3,verts4,tris4,verts5,tris5,verts6,tris6,verts7,tris7
+p7_dogtags_enemy,1,43.31,55903.71,6,280,248,506,472,995,640,1868,1696,3928,4872,6638,9304
+ugx_care_package,1,70.67,91206.17,1,1960,1400
+ugxm_pap_gun_upgrade_model,1,26.96,34799.81,1,2066,1779
+ugxm_powerup_quickfoot,1,24.31,31375.71,1,1437,1476
+ugxm_powerup_killshot,1,18.31,23636.18,1,1200,1168
+ugxm_powerup_invulnerability,1,19.68,25404.09,1,1074,940
+p7_zm_der_spine,1,53.07,68493.41,8,28,16,28,16,48,28,104,58,204,112,392,224,585,374,1006,748

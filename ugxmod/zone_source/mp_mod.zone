@@ -1,0 +1,4 @@
+>mode,mp
+>type,common
+
+#include "mp_mod.class"
