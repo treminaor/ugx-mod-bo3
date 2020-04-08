@@ -1,3 +1,5 @@
+License: GNU Lesser General Public License v3.0
+
 # UGX Mod BO3 Edition v0.1.2 alpha
 UGX Mod ported to Call of Duty Black Ops 3 
 
